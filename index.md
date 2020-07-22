@@ -19,7 +19,11 @@ Sergei Ospichev is Researcher at <a href="http://math.nsc.ru/english.html">Sobol
     <div class="row-fluid">
         <div class="span5">
             Sergei Ospichev<br/>
-            Researcher
+            Laboratory of Computability Theory and Applied Logic<br/>
+            <a href="http://math.nsc.ru/english.html">Sobolev Institute of Mathematics</a><br/>
+            <a href="https://education.nsu.ru/department_mechanics_mathematics_english">Department of Mechanics and Mathematics</a><br/>
+            <a href="https://english.nsu.ru">Novosibirsk State University</a><br/>
+            
             Email: ospichev@gmail.com<br/>
         </div>
 
