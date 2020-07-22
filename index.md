@@ -5,7 +5,7 @@ description: Sergei Ospichev is a researcher at Sobolev Institute of Mathematics
 keywords: computability theory, logic, semantic programming
 ---
 
-Sergei Ospichev is a Researcher at <li><a href="http://math.nsc.ru/english.html">Sobolev Institute of Mathematics</a></li> Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Sergei Ospichev is Researcher at <a href="http://math.nsc.ru/english.html">Sobolev Institute of Mathematics</a> and Lecturer at <a href="https://english.nsu.ru">Novosibirsk State University</a>. His research concerns computability theory - particularly theory of numberings and foundations of semantic programming.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -18,7 +18,8 @@ Sergei Ospichev is a Researcher at <li><a href="http://math.nsc.ru/english.html"
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
+            Sergei Ospichev<br/>
+            Researcher
             Email: ospichev@gmail.com<br/>
         </div>
 
