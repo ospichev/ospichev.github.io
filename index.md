@@ -1,11 +1,11 @@
 ---
 layout: frontpage
 title: Sergei Ospichev
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+description: Sergei Ospichev is a researcher at Sobolev Institute of Mathematics. 
+keywords: computability theory, logic, semantic programming
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Sergei Ospichev is a Researcher at <li><a href="http://math.nsc.ru/english.html">Sobolev Institute of Mathematics</a></li> Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -36,6 +36,7 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
           <li><a href="https://vk.com/ospichev">VK</a></li>
           <li><a href="https://www.facebook.com/sergey.ospichev">Facebook</a></li>
+          <li><a href="https://www.researchgate.net/profile/Sergey_Ospichev">ResearchGate</a></li>
       </ul>
   </div>
 </div>
