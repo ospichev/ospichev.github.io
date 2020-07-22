@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Blue Ham
+title: Sergei Ospichev
 description: Blue Ham is a PhD candidate at Broom University. 
 keywords: Blue, Ham, treats, recycling, mail, being a good boy
 ---
@@ -19,13 +19,13 @@ Blue Ham is a PhD candidate at Broom University. His research interests include 
     <div class="row-fluid">
         <div class="span5">
             Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Email: ospichev@gmail.com<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Sergei Ospichev" alt="Sergei Ospichev"/></a>
         </div>
     </div>
 </div>
