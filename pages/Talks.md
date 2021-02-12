@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-description: Sergei Ospichev's Publications
+title: Talks
+description: Sergei Ospichev's talks
 ---
 
 
