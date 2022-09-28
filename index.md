@@ -5,7 +5,7 @@ description: Sergei Ospichev is a researcher at Sobolev Institute of Mathematics
 keywords: computability theory, logic, semantic programming
 ---
 
-Sergei Ospichev is Researcher at <a href="http://math.nsc.ru/english.html">Sobolev Institute of Mathematics</a> and Lecturer at <a href="https://english.nsu.ru">Novosibirsk State University</a>. His research concerns computability theory - particularly theory of numberings and foundations of semantic programming.
+Sergei Ospichev is Researcher at <a href="http://math.nsc.ru/english.html">Sobolev Institute of Mathematics</a>, Assistant Professor at <a href="https://english.nsu.ru">Novosibirsk State University</a> and Deputy Director at <a href="https://english.nsu.ru/mca/">Mathematical Center in Akademgorodok</a>. His research concerns computability theory - particularly theory of numberings and foundations of semantic programming. He teaches mathematical logic and the theory of algorithms. He is also busy finding and applying mathematics to real world problems.
 
 
 ---
@@ -21,6 +21,7 @@ Sergei Ospichev is Researcher at <a href="http://math.nsc.ru/english.html">Sobol
             <a href="http://math.nsc.ru/english.html">Sobolev Institute of Mathematics</a><br/>
             <a href="https://education.nsu.ru/department_mechanics_mathematics_english">Department of Mechanics and Mathematics</a><br/>
             <a href="https://english.nsu.ru">Novosibirsk State University</a><br/>
+            <a href="https://english.nsu.ru/mca/">Mathematical Center in Akademgorodok</a><br/>
             
             Email: ospichev@gmail.com<br/>
         </div>
