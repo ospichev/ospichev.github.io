@@ -11,6 +11,15 @@ description: Sergei Ospichev's Publications
 
 [click here for the most recent version of the paper]({{ BASE_PATH}}/pages/working_papers/sample-working-paper.pdf)
 -->
+16. Bazhenov, N., Mustafa, M., Ospichev, S., Rogers semilattices of punctual numberings, Mathematical Structures in Computer Science, 2022, in press, [DOI](https://doi.org/10.1017/S0960129522000093)
+
+15. Bazhenov, N., Mustafa, M., Ospichev, S., San Mauro, L., Approximating Approximate Reasoning: Fuzzy Sets and the Ershov Hierarchy, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2021, 13039 LNCS, pp. 1–13, [DOI](https://doi.org/10.1007/978-3-030-88708-7_1)
+
+14. Bazhenov, N.A., Mustafa, M., Ospichev, S.S., On Universal Pairs in the Ershov Hierarchy, Siberian Mathematical Journal, 2021, 62(1), pp. 23–31, [DOI](https://doi.org/10.1134/S0037446621010031)
+
+13. Bazhenov, N.A., Mustafa, M., Ospichev, S.S., Yamaleev, M.M., Numberings in the Analytical Hierarchy, Algebra and Logic, 2020, 59(5), pp. 404–407, [DOI](https://doi.org/10.1007/s10469-020-09613-9)	
+
+12. Bazhenov, N., Mustafa, M., Ospichev, S., Semilattices of Punctual Numberings, Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2020, 12337 LNCS, pp. 1–12, [DOI](https://doi.org/10.1007/978-3-030-59267-7_1)	
 
 11. N. Bazhenov, S. Ospichev, M. Yamaleev, Isomorphism types of Rogers semilattices in the analytical hierarchy, to appear [arXiv](https://arxiv.org/abs/1912.05226)
 
